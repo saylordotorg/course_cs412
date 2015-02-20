@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS412: Mobile Applications Development"
+course_description: "A detailed study of trends in the development of applications for mobile devices, focusing on the unique design and deployment issues that must be taken into consideration when developing applications for mobile devices."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: JQuery and Structured Data** <span id="4"></span> 
 *In this unit, we will take a brief look at JQuery, a mechanism for
 direct access to the document object model within a script.  Since

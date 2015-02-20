@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS412: Mobile Applications Development"
+course_description: "A detailed study of trends in the development of applications for mobile devices, focusing on the unique design and deployment issues that must be taken into consideration when developing applications for mobile devices."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Infrastructure** <span id="2"></span> 
 *In this unit, we will look at the mechanics that enable web-based
 mobile applications to run.  We will first start with basic networking

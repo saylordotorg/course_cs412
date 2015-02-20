@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS412: Mobile Applications Development"
+course_description: "A detailed study of trends in the development of applications for mobile devices, focusing on the unique design and deployment issues that must be taken into consideration when developing applications for mobile devices."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Mobile Platforms** <span id="8"></span> 
 *In this unit, we will take a look at the differences between native and
 web-based mobile applications.  We will discuss HTML5 as a means to fill

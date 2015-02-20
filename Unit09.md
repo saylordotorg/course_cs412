@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS412: Mobile Applications Development"
+course_description: "A detailed study of trends in the development of applications for mobile devices, focusing on the unique design and deployment issues that must be taken into consideration when developing applications for mobile devices."
+next: ../Unit10
+previous: ../Unit08
+---
 **Unit 9: Storage and Geolocation** <span id="9"></span> 
 *In this unit, we will learn how mobile applications store persistent
 data.  We will also look at how we could develop applications that

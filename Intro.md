@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS412: Mobile Applications Development"
+course_description: "A detailed study of trends in the development of applications for mobile devices, focusing on the unique design and deployment issues that must be taken into consideration when developing applications for mobile devices."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "CS412: Mobile Applications Development"
 ------------------------------------------------------------
 

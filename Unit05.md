@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS412: Mobile Applications Development"
+course_description: "A detailed study of trends in the development of applications for mobile devices, focusing on the unique design and deployment issues that must be taken into consideration when developing applications for mobile devices."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Scripting with Server Access** <span id="5"></span> 
 *Thus far in this course, we have taken a brief look at scripting from
 the client side.  We will now discuss scripting from the server side,

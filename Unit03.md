@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS412: Mobile Applications Development"
+course_description: "A detailed study of trends in the development of applications for mobile devices, focusing on the unique design and deployment issues that must be taken into consideration when developing applications for mobile devices."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: HTML/CSS/DOM and Scripting** <span id="3"></span> 
 *This unit will review some of the material that was covered in [CS305:
 Web Development](http://www.saylor.org/courses/cs305/), such as HTML,

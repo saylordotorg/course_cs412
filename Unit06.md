@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS412: Mobile Applications Development"
+course_description: "A detailed study of trends in the development of applications for mobile devices, focusing on the unique design and deployment issues that must be taken into consideration when developing applications for mobile devices."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Designing Mobile User Interfaces** <span id="6"></span> 
 *Since mobile devices have screen size and memory limitations, one must
 really think carefully before designing a user interface.  In this unit,

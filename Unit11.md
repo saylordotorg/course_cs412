@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS412: Mobile Applications Development"
+course_description: "A detailed study of trends in the development of applications for mobile devices, focusing on the unique design and deployment issues that must be taken into consideration when developing applications for mobile devices."
+next: ../Unit12
+previous: ../Unit10
+---
 **Unit 11: iPhone/iPAD Development** <span id="11"></span> 
 *In this unit, we will look at how to develop applications in one
 popular platform for phones and tablets, iOS.  In order to complete this

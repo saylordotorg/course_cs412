@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS412: Mobile Applications Development"
+course_description: "A detailed study of trends in the development of applications for mobile devices, focusing on the unique design and deployment issues that must be taken into consideration when developing applications for mobile devices."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Mobile Application Evaluation and Mobile Browsers** <span
 id="7"></span> 
 *Once a mobile application has been developed, you will want to test it
