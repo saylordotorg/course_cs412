@@ -154,7 +154,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Interactive Lab: The Saylor Foundation’s “Creating a Simple Web
     Form”**
     Link: The Saylor Foundation’s [“Creating a Simple Web
-    Form”](http://www.saylor.org/site/wp-content/uploads/2012/09/CS412-3.1-Creating-a-Simple-Web-Form-FINAL.pdf)
+    Form”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/CS412-3.1-Creating-a-Simple-Web-Form-FINAL.pdf)
     (PDF)  
       
      Instructions: Please work through the interactive lab.  There are
@@ -162,7 +162,7 @@ Upon successful completion of this unit, the student will be able to:
     You will want to use an editor such as Textpad or Notepad++ to work
     with the HTML files.  Also, you should test all of your HTML files
     in a web browser of your choice.  Please review the
-    [“Solutions”](http://www.saylor.org/site/wp-content/uploads/2012/09/CS412-3.1-Creating-a-Simple-Web-Form-Answers-FINAL.pdf)
+    [“Solutions”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/CS412-3.1-Creating-a-Simple-Web-Form-Answers-FINAL.pdf)
     PDF when you are ready.  This lab should take you approximately 6
     hours to complete.
 
@@ -193,14 +193,14 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Assignment: The Saylor Foundation’s “Interactive CSS Laboratory”**
     Link: The Saylor Foundation’s [“Interactive CSS
-    Laboratory”](http://www.saylor.org/site/wp-content/uploads/2012/10/CS412-3.2-Interactive-CSS-Laboratory-FINAL.pdf)
+    Laboratory”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/CS412-3.2-Interactive-CSS-Laboratory-FINAL.pdf)
     (PDF)  
       
      Instructions: Please click on the link above, download the file,
     and follow the instructions to complete this assignment.  When you
     are finished, check your answers against the Saylor Foundation’s
     [“Interactive CSS Laboratory Answer
-    Key”](http://www.saylor.org/site/wp-content/uploads/2012/10/CS412-3.2-Interactive-CSS-Laboratory-Solutions-FINAL.pdf)
+    Key”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/CS412-3.2-Interactive-CSS-Laboratory-Solutions-FINAL.pdf)
     (PDF).
 
 **3.2.1 Definition** <span id="3.2.1"></span> 
@@ -233,13 +233,13 @@ Upon successful completion of this unit, the student will be able to:
     (DOM) Interactive Laboratory”**
     Link: The Saylor Foundation’s [“Document Object Model (DOM)
     Interactive
-    Laboratory”](http://www.saylor.org/site/wp-content/uploads/2013/02/CS412-3.3-Document-Object-Model-Lab.pdf)
+    Laboratory”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/CS412-3.3-Document-Object-Model-Lab.pdf)
     (PDF)  
       
      Instructions: Please complete this interactive laboratory. When you
     are finished, you may check your work against the Saylor
     Foundation’s [“Document Object Model (DOM) Interactive Laboratory
-    Solutions”](http://www.saylor.org/site/wp-content/uploads/2013/02/CS412-3.3-Document-Object-Model-Lab-Solutions.pdf)
+    Solutions”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/CS412-3.3-Document-Object-Model-Lab-Solutions.pdf)
     (PDF).
 
 **3.3.1 Basic Definitions** <span id="3.3.1"></span> 
@@ -711,19 +711,19 @@ Upon successful completion of this unit, the student will be able to:
 -   **Interactive Lab: The Saylor Foundation’s “Interactive JavaScript
     Laboratory”**
     Link: The Saylor Foundation’s [“Interactive JavaScript
-    Laboratory”](http://www.saylor.org/site/wp-content/uploads/2012/12/CS412-3.4-JavaScriptLab-final.doc)
+    Laboratory”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/CS412-3.4-JavaScriptLab-final.doc)
     (DOC)  
       
      Instructions: Please work through the laboratory, which will cover
     how to use JavaScript to validate an HTML form.  You may download a
     (zipped) collection of the HTML files
-    [here](http://www.saylor.org/site/wp-content/uploads/2012/12/CS412-3.4-html-files.zip).
+    [here](https://resources.saylor.org/archived/wp-content/uploads/2012/12/CS412-3.4-html-files.zip).
      All of the HTML pages can be tested in any browser.  As you work
     through the tutorial, utilize the [“w3schools.com JavaScript
     Tutorial”](http://www.w3schools.com/js/default.asp) (HTML) as a
     reference.  When you are finished, you may check your work against
     the Saylor Foundation’s [“Interactive JavaScript Laboratory –
-    Answers”](http://www.saylor.org/site/wp-content/uploads/2012/12/CS412-3.4-JavaScriptLab-Answers-final.doc)
+    Answers”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/CS412-3.4-JavaScriptLab-Answers-final.doc)
     (DOC).
 
 **3.5 Assessment** <span id="3.5"></span> 
