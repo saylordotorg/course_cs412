@@ -134,7 +134,7 @@ Note: This topic is covered by the resources underneath sub-subunits
 **7.2.2.2 Performance Study** <span id="7.2.2.2"></span> 
 -   **Reading: Usability.gov’s “Usability Testing"**
     Link: Usability.gov’s “[Usability
-    Testing](https://resources.saylor.org/archived/wp-content/uploads/2012/09/SAYLOR.ORG-CS412-Chapter-18-Usability-Testing.pdf)"
+    Testing](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/SAYLOR.ORG-CS412-Chapter-18-Usability-Testing.pdf)"
     (PDF)  
       
      Instructions: Please read from the bottom of Page 192 (paragraph
@@ -208,7 +208,7 @@ Note: This topic is covered by the resources underneath subunits
 **7.4 Mobile Browser Evolution** <span id="7.4"></span> 
 -   **Reading: University of Camerino’s “Browser Evolution”**
     Link: University of Camerino’s [“Browser
-    Evolution”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/CS412_Unit-7.4_Browser-Evolution-p.pdf)
+    Evolution”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/CS412_Unit-7.4_Browser-Evolution-p.pdf)
     (PDF)  
         
      Instructions: Please read all slides.  Note that this reading will
